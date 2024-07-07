@@ -2,4 +2,4 @@
 docker commands
 
 
-docker pull image name
+1.`docker pull image name`
